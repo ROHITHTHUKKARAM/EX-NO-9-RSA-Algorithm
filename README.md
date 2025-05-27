@@ -1,8 +1,8 @@
 # EX-NO-9-RSA-Algorithm
 
-## Name:Ramprasah R
-## Reg no:212223220086
-## Date :24/04/25
+## Name:ROHITH T
+## Reg no:212223040173
+
 
 ## AIM:
 To Implement RSA Encryption Algorithm in Cryptography
